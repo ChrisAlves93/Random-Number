@@ -1,3 +1,11 @@
+#The project encompasses data preprocessing, exploratory data analysis, model building, evaluation, and interpretation. The primary objective is to establish a robust and interpretable model that can predict a target variable based on various input features.
+#Technologies Used
+#Python: The primary programming language used for data analysis and modeling.
+#Pandas & NumPy: For data manipulation and numerical computations.
+#Matplotlib & Seaborn: For data visualization.
+
+
+
 # import necessary libraries
 import numpy as np
 import scipy.stats as sc
